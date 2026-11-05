@@ -887,6 +887,7 @@ is one link away on the same screen.
 | Vercel, Netlify and other serverless hosting | not supported — Folio is a long-running server that keeps Git repositories on disk and holds live connections |
 
 One click on Railway: [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/folio)
+One click on RepoCloud: [![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Folio/)
 
 Domains, HTTPS, updates and backups: [docs/INSTALL.md](docs/INSTALL.md).
 
